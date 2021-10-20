@@ -2,11 +2,11 @@
 
 This project was completed as part of the course requirements of the Online Data Science Bootcamps for [SDAIA Academy](https://academy.sdaia.gov.sa/)
 
-- Installation
-- Project Motivation
-- File Descriptions
-- Results
-- Licensing
+- [Installation](https://github.com/Bashayr92/T5O01_FinalProject/blob/main/README.md#installation)
+- [Project Motivation]()
+- [File Descriptions]()
+- [Results]()
+- [Licensing]()
 ## Installation:
 Python version 3
 
