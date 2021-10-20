@@ -3,24 +3,24 @@
 This project was completed as part of the course requirements of the Online Data Science Bootcamps for [SDAIA Academy](https://academy.sdaia.gov.sa/)
 
 - [Installation](https://github.com/Bashayr92/T5O01_FinalProject/blob/main/README.md#installation)
-- [Project Motivation]()
-- [File Descriptions]()
-- [Results]()
-- [Licensing]()
+- [Project Motivation](https://github.com/Bashayr92/T5O01_FinalProject/blob/main/README.md#project-motivation)
+- [File Descriptions](https://github.com/Bashayr92/T5O01_FinalProject/blob/main/README.md#file-description)
+- [Results](https://github.com/Bashayr92/T5O01_FinalProject/blob/main/README.md#results)
+- [Licensing](https://github.com/Bashayr92/T5O01_FinalProject/blob/main/README.md#licensing)
 ## Installation:
 Python version 3
 
-Libraries:
-pandas.
-numpy.
-matplotlib.
-itertools.
+- Libraries:
+  * pandas.
+  * numpy.
+  * matplotlib.
+  * seaborn.
+  * sklearn
+  * xgboost
+  
 ## Project Motivation:
-In this project, I will focus on finding out the answers of the following questions:
-
-Q1. Which are the most programming languages that 'Students' prefer? and which are the programming languages they have been worked with before?
-Q2. What is the average salary for professional developer in different countries?
-Q3. Which developer type has the highest job satisfaction?
+In this project I will try to find out whether or not the salary is affected by gender using the data of the Salary Survey from AskAManager.org.
+Hopefully the finding of this project will show no gap due to gender and if there is any, I will try to explore how does this affects the salary and build a model to predict the annual salary.
 ## File Description:
 There is one notebook file that includes all the works related to the project motivation.
 
